@@ -1,4 +1,4 @@
-# Data Engineering Nanodegree by Udacity
+# Data Engineer Program by Udacity
 
 ## Overview
 

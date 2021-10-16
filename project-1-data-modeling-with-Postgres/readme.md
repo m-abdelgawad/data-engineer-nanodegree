@@ -39,7 +39,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 <img src="images/log-data.png">
 
 ## Schema for Song Play Analysis
-<img src="images/database.png">
+<img src="images/database-diagram.png">
 
 ## Screenshots of The Schema Tables After Implementing The Data Pipeline
 

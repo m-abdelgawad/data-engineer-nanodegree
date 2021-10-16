@@ -10,4 +10,4 @@ I will update this README with full topics and exercises that I've practiced; on
 
 * Author: Mohamed Abdel-Gawad Ibrahim
 * Contact: muhammadabdelgawwad@gmail.com
-* Phone: +201069052620 || +201147821232
+* Phone: +201069052620 | +201147821232

@@ -62,4 +62,4 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 * Author: Mohamed Abdel-Gawad Ibrahim
 * Contact: muhammadabdelgawwad@gmail.com
-* Phone: +201069052620 || +201147821232
+* Phone: +201069052620 | +201147821232

@@ -19,7 +19,7 @@ For this project, I worked with one dataset: `event_data`. The directory of CSV 
 > event_data/2018-11-08-events.csv  
 event_data/2018-11-09-events.csv
 
-And below is an example of what an single event data file, `2018-11-01-events.csv`, looks like:  
+And below is an example of what a single event data file, `2018-11-01-events.csv`, looks like:  
 
 <img src="images/data-file-screenshot.png">
 

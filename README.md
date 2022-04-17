@@ -2,7 +2,7 @@
 
 ## Overview
 
-Currently, I am studying the Data Engineering Nanodegree by Udaicty. So, I thought it would be a good idea to upload each exercise that I finish in this repo to stay motivated.
+Currently, I am studying the Data Engineering Nanodegree by Udacity. So, I thought it would be a good idea to upload each exercise that I finish in this repo to stay motivated.
 
 I will update this README with full topics and exercises that I've practiced; once I finish studying the Nanodegree program.
 
